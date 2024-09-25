@@ -37,14 +37,14 @@ If either tool is missing, you can install them as follows:
 
 #### **Step 1: Unzip the File**
 
-1. Open your terminal and navigate to the folder where the file symmetricEncryptionAndDecryption.zip is present.
+1. Open your terminal and navigate to the folder where the file SymmetricEncryptionAndDecryption.zip is present.
 
 And use the command to unzip the file:  
-`unzip symmetricEncryptionAndDecryption.zip -d symmetricEncryptionAndDecryption`
+`unzip SymmetricEncryptionAndDecryption.zip`
 
-2. This will create a folder called `symmetricEncryptionAndDecryption`.
+2. This will create a folder called `SymmetricEncryptionAndDecryption`.
 
-#### **Step 2: Go into the Folder** `cd symmetricEncryptionAndDecryption`
+#### **Step 2: Go into the unzip Folder in my case it is** `cd SymmetricEncryptionAndDecryption`
 
 #### **Step 3: Check Your Files**
 
