@@ -1,4 +1,3 @@
-
 #  **Encrypt and Decrypt Messages Through netcat Webserver**
 
 ### **What You Need:**
@@ -41,7 +40,7 @@ If either tool is missing, you can install them as follows:
 1. Open your terminal and navigate to the folder where the file symmetricEncryptionAndDecryption.zip is present.
 
 And use the command to unzip the file:  
-`unzip symmetricEncryptionAndDecryption.zip`
+`unzip symmetricEncryptionAndDecryption.zip -d symmetricEncryptionAndDecryption`
 
 2. This will create a folder called `symmetricEncryptionAndDecryption`.
 
